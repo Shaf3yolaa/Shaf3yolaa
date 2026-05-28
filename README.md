@@ -19,12 +19,11 @@ My main focus is on **Embedded Systems and System Programming**, while also expl
 ## 🛠️ Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,matlab" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MATLAB-red?style=for-the-badge" />
